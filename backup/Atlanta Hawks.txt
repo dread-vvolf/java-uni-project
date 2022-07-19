@@ -1,0 +1,15 @@
+a a 111 1 1.0
+Bogdan Bogdanovic 26 99 9679.0
+Trae Young 30 15 10500.5
+De'Andre Hunter 23 21 50500.55
+Kris Dunn 27 32 50600.0
+Cam Reddish 22 22 50980.0
+Tony Snell 23 19 53400.0
+Danilo Galinari 25 8 63000.0
+Brandon Goodwin 30 0 67320.33
+John Colins 27 50 70000.0
+Nathan Knight 29 1 83498.0
+Bruno Fernando 24 24 85000.0
+Skylar Mays 35 4 89000.0
+Clint Capela 24 33 90000.0
+Onyeka Okongwu 36 17 97013.0

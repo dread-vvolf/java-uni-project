@@ -1,0 +1,5 @@
+Piotr Harden 30 66 98010.0
+Kevin Durant 31 50 100500.5
+Kyrie Irving 28 40 95630.0
+Blake Griffin 33 98 89560.43
+Joe Harris 26 12 70535.55

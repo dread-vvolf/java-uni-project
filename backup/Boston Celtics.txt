@@ -1,0 +1,6 @@
+Jayson Tatum 26 3 67830.4
+Jaylen Brown 22 89 59060.0
+Kemba Walker 24 99 69050.6
+Evan Fourmier 29 13 95071.0
+Robert Williams 32 35 70240.0
+Marcin Gortat 43 33 100000.0
